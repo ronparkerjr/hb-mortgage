@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  XML sitemap for HB Mortgage Group.
+  Lists implemented public routes. Placeholder routes are included so the
+  navigation inventory is complete; they resolve to clearly-marked "In Progress"
+  pages and are not launch-ready. The production domain is pending owner
+  confirmation — update the <loc> host before launch.
+  Generated 2026-09-06. Refresh when pages are added or promoted from placeholder.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>/home-purchase</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/home-refinance</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>/loan-programs</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/mortgage-calculators</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/loan-process</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/mortgage-basics</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/online-forms</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/faq</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/blog</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>/about-us</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/contact-us</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/personalized-quote</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>/select-loan-officer</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>/pre-qualify</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/apply-now</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/download-app</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/download-ebook</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/thank-you</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/legal</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/accessibility-statement</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/site-map</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+</urlset>

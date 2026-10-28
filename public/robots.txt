@@ -1,0 +1,12 @@
+# robots.txt — HB Mortgage Group
+# The site is under active development and NOT launch-ready.
+# Preview/staging environments are kept out of search indexing via the
+# noindex meta tag in index.html. At launch, after the production domain is
+# confirmed and the noindex meta is removed, update this file and the
+# sitemap host for production crawling.
+
+User-agent: *
+Disallow: /thank-you
+
+# Sitemap (host pending production domain confirmation)
+Sitemap: /sitemap.xml
